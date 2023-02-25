@@ -1,3 +1,3 @@
 # Simple-RISC-Processor
 
-The project include a Golden Model and the Pipeline stages
+The project includes a Golden Model and the Pipeline stages
